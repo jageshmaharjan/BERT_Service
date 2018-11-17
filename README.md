@@ -1,4 +1,4 @@
-## THIS IS A REPLICA COPY FROM bert-as-service by Han Xiao, that uses the pre-trained model from BERT from google-research
+## THIS IS A REPLICA COPY FROM bert-as-service by Han Xiao, that uses the pre-trained model from BERT  google-research
 
 # bert-as-service
 
