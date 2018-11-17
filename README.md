@@ -1,3 +1,5 @@
+## THIS IS A REPLICA COPY FROM bert-as-service by Han Xiao, that uses the pre-trained model from BERT from google-research
+
 # bert-as-service
 
 [![Python: 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)](https://opensource.org/licenses/MIT)    [![Tensorflow: 1.10](https://img.shields.io/badge/Tensorflow-1.10-brightgreen.svg)](https://opensource.org/licenses/MIT)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
