@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: jageshmaharjanbertservice 
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: jageshmaharjanbertservice 
+    spec:
+      containers:
+        - name: jageshmaharjanbertservice 
+          image: containerregistryazsponsor.azurecr.io/jageshmaharjanbertservice 
+          ports:
+          - containerPort: 8080
